@@ -10,7 +10,7 @@ The project consists of two dashboards that provide insights into business perfo
 
 ### 1. Executive Travel & Tourism Analytics
 
-![Executive Travel & Tourism Analytics](Executive Travel & Tourism Analytics.png)
+![Executive Travel & Tourism Analytics](Executive%20Travel%20%26%20Tourism%20Analytics.png)
 
 **Key Features:**
 - KPI cards for Total Bookings, Net Revenue, Total Trip Cost, Customer Rating, and Cancellation Rate.
@@ -21,7 +21,7 @@ The project consists of two dashboards that provide insights into business perfo
 
 ### 2. Customer Behavior & Marketing Dashboard
 
-![Customer Behavior Dashboard](Customer_Behavior Dashboard.png)
+![Customer Behavior Dashboard](Customer_Behavior%20Dashboard.png)
 
 **Key Features:**
 - Average Booking Lead Time and Repeat Customer Rate.
